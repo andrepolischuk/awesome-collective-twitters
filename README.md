@@ -6,7 +6,7 @@
 
 Inspired by the [awesome][awesome-url] list thing.
 
-# Russian collective twitters
+## Russian collective twitters
 
 * [@iamspacegray](https://twitter.com/iamspacegray) — any type of design
 * [@jsunderhood](https://twitter.com/jsunderhood) — javascript and frontend
@@ -16,7 +16,7 @@ Inspired by the [awesome][awesome-url] list thing.
 * [@abroadunderhood](https://twitter.com/abroadunderhood) — relocation to other country
 * [@spbunderhood](https://twitter.com/spbunderhood) — about Saint Petersburg
 
-# Dutch collective twitters
+## Dutch collective twitters
 
 * [@LocalSourceNL](https://twitter.com/LocalSourceNL) — javascript and frontend
 
